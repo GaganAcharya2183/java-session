@@ -1,7 +1,7 @@
 package Day1;
 import java.util.Scanner;
 
-public class welcome {
+public class Welcome {
     public static void main(String[] args) {
         String hello = "Welcome to my demo App";
         Scanner scanner = new Scanner(System.in);
