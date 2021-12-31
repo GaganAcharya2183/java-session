@@ -2,23 +2,23 @@ package day2;
 
 public class Heater {
 
-    String states;
+    // states
 
-    String brand;
-    String color;
-    String model;
-    String size;
-    short powerConsumption;
-    String electricOrGas;
-    String portablity;
-    String price;
-    short numberOfButtons;
+    // brand
+    // color
+    // model
+    // size
+    // powerConsumption
+    // electricOrGas
+    // portable
+    // price
+    // numberOfButtons
 
 
-    String behaviour;
+    // behaviour
 
-    boolean rotate;
-    boolean on;
-    boolean off;
+    // rotate
+    // on
+    // off
 
 }

@@ -2,22 +2,22 @@ package day2;
 
 public class Lift {
 
-    String states;
+    //States
 
-    short allowedNumberOfPerson;
-    short allowedWeight;
-    short currentNumberOfPerson;
-    short currentWeight;
-    String color;
-    short numberOfFloorSwitch;
-    boolean isEmergencyButtonAvailable;
+    // allowedNumberOfPerson (maxCapacity)
+    // allowedWeight
+    // currentNumberOfPerson
+    // currentWeight
+    // color
+    // numberOfFloorSwitch
+    // isEmergencyButtonAvailable
 
 
-    String behaviour;
+    // Behaviour
 
-    boolean liftGoingUp;
-    boolean liftGoingDown;
-    boolean liftDoorOpen;
-    boolean liftDoorClose;
+    //liftGoingUp
+    //liftGoingDown
+    //liftDoorOpen
+    //liftDoorClose
 
 }

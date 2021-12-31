@@ -2,23 +2,23 @@ package day2;
 
 public class Laptop {
 
-   String states;
+    //States
 
-    String color;
-    String model;
-    String operatingSystem;
-    String brand;
-    String processorType;
-    String serialNumber;
-    boolean isTouchScreen;
-    short price;
-    String screenSize;
+    // color
+    // model
+    // operatingSystem
+    // brand
+    // processorType
+    // serialNumber
+    // isTouchScreen
+    // price
+    // screenSize
 
-    String behaviours;
+    //Behaviours
 
-    String starting;
-    String shuttingDown;
-    String playingMovie;
+    // starting
+    // shuttingDown
+    // playingMovie
 
 
 }
